@@ -327,7 +327,7 @@
     {
         "Movie Title": "The Crow",
         "IMDb ID": "tt1340094",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMGMwMDcyMmItYzY5YS00ZDk2LTgyM2MtNjMzNzJlMGI5OWQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UY414_CR171,0,280,414_.jpg"
+        "Movie Image": "https://m.media-amazon.com/images/M/MV5BNTNhOTQ3YjMtZGZhNS00NTE0LWEzZGEtYWJhOTU0ZWQ5MTg2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
     },
     {
         "Movie Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -373,130 +373,5 @@
         "Movie Title": "Rebel Moon - Part One: A Child of Fire",
         "IMDb ID": "tt14998742",
         "Movie Image": "https://m.media-amazon.com/images/M/MV5BYzlhNzBmYjUtNjRmZC00MDg3LWE4NDMtZDNjODUwNTljMzhlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "The Watchers",
-        "IMDb ID": "tt26736843",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BOTE5ZTY3NzktYmVkNS00NzRhLWI3YzUtNTA3MDVkYmIzMGVmXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_QL75_UX280_CR0,3,280,414_.jpg"
-    },
-    {
-        "Movie Title": "The Creator",
-        "IMDb ID": "tt11858890",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BNDUyNTIzNDQtYTZmMi00M2FlLTgyZjUtYWViZWNhMDYzMjE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "The Marvels",
-        "IMDb ID": "tt10676048",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "One Life",
-        "IMDb ID": "tt13097932",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BNGU1OTFhMmItNDcyMS00ODEyLWE4NmQtMjFhZjExNmU1OTQ4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "The Dark Knight",
-        "IMDb ID": "tt0468569",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Sicario",
-        "IMDb ID": "tt3397884",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_QL75_UX280_CR0,3,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Five Nights at Freddy's",
-        "IMDb ID": "tt4589218",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BNmNlZWI4MDQtMzFlYS00NzJmLTkwZjItZWVmNmJjZGYxNDA1XkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_QL75_UX280_CR0,2,280,414_.jpg"
-    },
-    {
-        "Movie Title": "My Name Is Loh Kiwan",
-        "IMDb ID": "tt26672512",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMzM3YjY0MmYtOGE4ZS00NmMyLWE0MTAtODY1NjEwYTliZjhkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Civil War",
-        "IMDb ID": "tt17279496",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BYTYyODhlODktYjUzNC00NjUyLWI1MzYtNmI0MTY3YTUxYjY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "No Country for Old Men",
-        "IMDb ID": "tt0477348",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UY414_CR1,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "The Wild Robot",
-        "IMDb ID": "tt29623480",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BNzg0OGUwM2UtOTJlNC00YjViLTgyN2QtNmQyYTE0NWNhZjA1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX280_CR0,14,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Challengers",
-        "IMDb ID": "tt16426418",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "The Batman",
-        "IMDb ID": "tt1877830",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BM2MyNTAwZGEtNTAxNC00ODVjLTgzZjUtYmU0YjAzNmQyZDEwXkEyXkFqcGdeQXVyNDc2NTg3NzA@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "This Is Me... Now",
-        "IMDb ID": "tt30215084",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMTc0MWU2MmUtY2I3OC00N2MwLTkyNTktOWJkNjYwY2RjYjcwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UY414_CR16,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Everything Everywhere All at Once",
-        "IMDb ID": "tt6710474",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_QL75_UY414_CR3,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Wicked Little Letters",
-        "IMDb ID": "tt20234774",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BN2NmNWYzNTktNThmNS00MjZkLTk5NjItZTEwNTczMzAwMWI2XkEyXkFqcGdeQXVyMTQyODg5MjQw._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Migration",
-        "IMDb ID": "tt6495056",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BYTIxZDM5YWItM2Y1My00ODg5LTkzNjAtMWFlZTNlODg0MzEyXkEyXkFqcGdeQXVyMTA5ODEyNTc5._V1_QL75_UX280_CR0,3,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Harry Potter and the Sorcerer's Stone",
-        "IMDb ID": "tt0241527",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL75_UY414_CR1,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "May December",
-        "IMDb ID": "tt13651794",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMTc1ODM5YjQtMmQzNS00Y2FkLWJhNTgtYTE5ZDY0NjQyNmRjXkEyXkFqcGdeQXVyMTY3ODE5NTY1._V1_QL75_UY414_CR26,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "The Voyeurs",
-        "IMDb ID": "tt11235772",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BZmQzMGE0YzEtZjNiYS00Mjg5LTgyOTctNWViZTFiZDAzYTNkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Dune: Messiah",
-        "IMDb ID": "tt31378509",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BZGFkZThlYjYtZDFlNC00N2MzLTk0MTUtNTQzMzdlZTYyNmM0XkEyXkFqcGdeQXVyMTY5MDU2NTQ3._V1_QL75_UY414_CR1,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Bottoms",
-        "IMDb ID": "tt17527468",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BZWZkZjE2OGYtN2RiMS00ZDE5LWFlZGQtYzI1OTNhZDZkYzM3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_QL75_UX280_CR0,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Mean Girls",
-        "IMDb ID": "tt0377092",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_QL75_UY414_CR6,0,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Arrival",
-        "IMDb ID": "tt2543164",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_QL75_UX280_CR0,11,280,414_.jpg"
-    },
-    {
-        "Movie Title": "Spider-Man: Across the Spider-Verse",
-        "IMDb ID": "tt9362722",
-        "Movie Image": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX280_CR0,1,280,414_.jpg"
     }
 ]
